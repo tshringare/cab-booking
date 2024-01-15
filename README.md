@@ -21,5 +21,5 @@ Then we have the passenger and the cab driver classes, which implement this user
   <p>This is a simple vehicle class used primarily by the Bookings and the CabDriver classes to store the name and importantly the type of the vehicle being driven, which is used to calculate fare costs.</p></li>
 </ol>
 <h2>Usage</h2>
-<p>While the classes can be implemented as is to make a very simple cab booking program, these are very crude and require many changes to be implemented in an end user cab-booking program, such as the implementation of a proper coordinate system, the creation of a proper user system with secure password storage methods etc. </p>
-<p>This framework can serve as a very simple foundation for a cab-booking app.</p>
+<p>While the classes can be implemented as is to make a very simple cab booking program, it is these are very crude and require many changes to be implemented in an end user cab-booking program, such as the implementation of a proper coordinate system, the creation of a proper user system with secure password storage methods etc. </p>
+<p>Thus, this project serves as a very simple and crude foundation of a cab booking app, which provides very basic functionality.</p>
