@@ -22,4 +22,4 @@ Then we have the passenger and the cab driver classes, which implement this user
 </ol>
 <h2>Usage</h2>
 <p>While the classes can be implemented as is to make a very simple cab booking program, these are very crude and require many changes to be implemented in an end user cab-booking program, such as the implementation of a proper coordinate system, the creation of a proper user system with secure password storage methods etc. </p>
-<p>Thus, this framework can serve as a very simple foundation for a cab-booking app project</p>
+<p>This framework can serve as a very simple foundation for a cab-booking app.</p>
