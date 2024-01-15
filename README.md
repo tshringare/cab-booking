@@ -2,7 +2,7 @@
 <h2>Introduction</h2>
 <p> This repository is a framework which can be used to implement a cab booking system. These classes and their methods provide a very basic implementation of a cab booking service such as registraion of a user as either a driver or a passenger, allowing passengers to select what type of car they want, calculating displaying the fare, and allowing the driver to find suitable and the closests ride requests. This repository could thus be used to develop and implement a bare bones cab-booking application, while providing room for improvement and customization. The Main class can be run to see an outline of how each class interacts with one another.</p><br>
 <h2>Working</h2>
-This section provides basic details of how each of the classes work.<br>
+This section provides basic details of how each of the classes work.<br><br>
 <ol>
   <li><b>Coordinate: -</b>
   <p>A simple implementation of a two dimensional coordinate system used to define a point which contains methods to set x and y coordinates of a point, along with a method to get the distance between two points. Used to find the closest passenger for a specific driver and to calculate the cab fare.</p></li>
